@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<request>
+  <request_guid>BG_9705120705_0358400000820000050_1_7729314745</request_guid>
+  <client_data label="Карточка клиента">
+    <general_info>
+      <fullname label="Полное наименование">ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "ФЕНИКС"</fullname>
+      <shortname label="Краткое наименование">ООО "ФЕНИКС"</shortname>
+      <opf label="Организационно-правовая форма">Общества с ограниченной ответственностью</opf>
+      <management_type label="Тип органа управления">Общее собрание участников</management_type>
+      <is_resident label="Резидент">Да</is_resident>
+      <NalResForeign label="Налоговый резидент иного государства">Нет</NalResForeign>
+      <NalResCountry label="Страна"></NalResCountry>
+      <business_start_date label="Дата начала ведения бизнеса">29.06.2018</business_start_date>
+      <main_act_view label="ОКВЭД">62.01</main_act_view>
+      <okogu label="ОКОГУ"></okogu>
+      <main_act_descr label="Отрасль">Разработка компьютерного программного обеспечения</main_act_descr>
+      <activities label="Дополнительные коды ОКВЭД">
+				
+				<activity label="Дополнительный код ОКВЭД"><code label="Код">62.02</code><text label="Расшифровка">Деятельность консультативная и работы в области компьютерных технологий</text></activity>
+				
+
+				<activity label="Дополнительный код ОКВЭД"><code label="Код">64.99</code><text label="Расшифровка">Предоставление прочих финансовых услуг, кроме услуг по страхованию и пенсионному обеспечению, не включенных в другие группировки</text></activity>
+				
+
+				<activity label="Дополнительный код ОКВЭД"><code label="Код">66.19.4</code><text label="Расшифровка">Деятельность по предоставлению консультационных услуг по вопросам финансового посредничества</text></activity>
+				
+
+				<activity label="Дополнительный код ОКВЭД"><code label="Код">69.10</code><text label="Расшифровка">Деятельность в области права</text></activity>
+				
+
+				<activity label="Дополнительный код ОКВЭД"><code label="Код">69.20</code><text label="Расшифровка">Деятельность по оказанию услуг в области бухгалтерского учета, по проведению финансового аудита, по налоговому консультированию</text></activity>
+				
+
+				<activity label="Дополнительный код ОКВЭД"><code label="Код">70.22</code><text label="Расшифровка">Консультирование по вопросам коммерческой деятельности и управления</text></activity>
+				
+
+				<activity label="Дополнительный код ОКВЭД"><code label="Код">73.11</code><text label="Расшифровка">Деятельность рекламных агентств</text></activity>
+				
+
+				<activity label="Дополнительный код ОКВЭД"><code label="Код">73.20</code><text label="Расшифровка">Исследование конъюнктуры рынка и изучение общественного мнения</text></activity>
+				
+
+				<activity label="Дополнительный код ОКВЭД"><code label="Код">82.99</code><text label="Расшифровка">Деятельность по предоставлению прочих вспомогательных услуг для бизнеса, не включенная в другие группировки</text></activity>
+				
+
+			</activities>
+      <inn label="ИНН">9705120705</inn>
+      <kpp label="КПП">771401001</kpp>
+      <region label="Регион">Москва город</region>
+      <ogrn label="ОГРН">1187746611051</ogrn>
+      <okpo label="ОКПО">31283291</okpo>
+      <okopf label="ОКОПФ">12300</okopf>
+      <fns_adr label="Адрес регистрирующего органа ФНС"></fns_adr>
+      <registered_address label="Юридический адрес">
+        <address>
+          <is_kladr label="КЛАДР">Да</is_kladr>
+          <post_code label="Индекс">125167</post_code>
+          <region_code label="Код региона">77</region_code>
+          <region label="Регион">Москва город</region>
+          <rtype label="Район (вид)"></rtype>
+          <reign label="Район"></reign>
+          <ctype label="Город (вид)"></ctype>
+          <city label="Город"></city>
+          <ttype label="Населенный пункт (вид)"></ttype>
+          <town label="Населенный пункт"></town>
+          <oktmo label="ОКТМО">45333000000</oktmo>
+          <stype label="Улица (вид)">проспект</stype>
+          <street label="Улица (название)">Ленинградский</street>
+          <house label="Дом">36</house>
+          <korp label="Корпус">11</korp>
+          <building label="Строение"></building>
+          <flat label="Квартира (офис)">кв  этаж 2 каб 216</flat>
+          <okato label="ОКАТО"></okato>
+        </address>
+      </registered_address>
+      <factual_address label="Фактический адрес">
+        <address>
+          <is_kladr label="КЛАДР">Да</is_kladr>
+          <post_code label="Индекс">125167</post_code>
+          <region_code label="Код региона">77</region_code>
+          <region label="Регион">Москва город</region>
+          <rtype label="Район (вид)"></rtype>
+          <reign label="Район"></reign>
+          <ctype label="Город (вид)"></ctype>
+          <city label="Город"></city>
+          <ttype label="Населенный пункт (вид)"></ttype>
+          <town label="Населенный пункт"></town>
+          <oktmo label="ОКТМО"></oktmo>
+          <stype label="Улица (вид)">проспект</stype>
+          <street label="Улица (название)">Ленинградский</street>
+          <house label="Дом">36</house>
+          <korp label="Корпус">11</korp>
+          <building label="Строение"></building>
+          <flat label="Квартира (офис)">кв  этаж 2 каб 216</flat>
+          <okato label="ОКАТО"></okato>
+        </address>
+      </factual_address>
+      <is_adress_equal label="Юридический совпадает с фактическим адресом">Да</is_adress_equal>
+      <phone label="Телефон">79009009090,77676767676</phone>
+      <email label="Email">test@mail.ru</email>
+      <registr_date label="Дата гос. регистрации">29.06.2018</registr_date>
+      <state_reg_agency label="Наименование регистрирующего органа">Межрайонная инспекция Федеральной налоговой службы № 46 по г. Москве</state_reg_agency>
+      <reg_capital label="Уставной капитал">20000</reg_capital>
+      <consent_data_process label="Согласие на обработку персональных">Да</consent_data_process>
+      <consent_bki label="Согласие на запрос информ. из БКИ">Да</consent_bki>
+      <consent_bki_date label="Дата согласия на запрос">25.09.2020</consent_bki_date>
+      <consent_bki_inform label=" Согласие на предост. Информ. в БКИ">Да</consent_bki_inform>
+      <consent_bki_inform_date label="Дата согласия на предоставление">25.09.2020</consent_bki_inform_date>
+      <fin_period_start_date label="Дата начала отчетного периода">01.04.2019</fin_period_start_date>
+      <fin_period_end_date label="Дата окончания отчетного периода">31.03.2020</fin_period_end_date>
+      <average_revenue label="Среднемесячная выручка, руб.">17670</average_revenue>
+      <is_actually label="Совпадает с фактически">Да</is_actually>
+    </general_info>
+    <leader_info label="Руководитель или Индивидуальный предприниматель">
+      <position label="Должность">Генеральный Директор</position>
+      <surname label="Фамилия">Кучинская</surname>
+      <name label="Имя">Ева</name>
+      <second_name label="Отчество">Дмитриевна</second_name>
+      <fio_rp label="ФИО род. падеж">Кучинская Ева Дмитриевна</fio_rp>
+      <birth label="Дата рождения">03.09.1997</birth>
+      <pbirthplace label="Место рождения">Москва</pbirthplace>
+      <gender label="Пол">женский</gender>
+      <region label="Регион"></region>
+      <residend_rf label="Резидент">Да</residend_rf>
+      <document_type label="Документы">паспорт РФ</document_type>
+      <pnumber label="Номер документа">1234 123123</pnumber>
+      <pproducted label="Кем выдан">Отделом</pproducted>
+      <pdate label="Дата выдачи">12.09.2020</pdate>
+      <pcode label="Код подразделения">456-235</pcode>
+      <migr_num label="Миграционная карта, номер"></migr_num>
+      <migr_date1 label="Миграционная карта, дата с"></migr_date1>
+      <migr_date2 label="Миграционная карта, дата по"></migr_date2>
+      <doc_series label="Удостоверениче личности, серия">1234</doc_series>
+      <doc_num label="Удостоверениче личности, номер"></doc_num>
+      <doc_date1 label="Удостоверениче личности, дата с"></doc_date1>
+      <doc_date2 label="Удостоверениче личности, дата с"></doc_date2>
+      <family_status label="Семейное положение"></family_status>
+      <spouse_birthdate label="Дата рождения супруги(а)"></spouse_birthdate>
+      <spouse_f label="Фамилия супруги(а)"></spouse_f>
+      <spouse_i label="Имя супруги(а)"></spouse_i>
+      <spouse_o label="Отчество супруги(а)"></spouse_o>
+      <attitude_to_army label="Принадлежность к армии"></attitude_to_army>
+      <registered_address label="Адрес регистрации">
+        <address>
+          <is_kladr label="КЛАДР">Да</is_kladr>
+          <post_code label="Индекс"></post_code>
+          <region_code label="Код региона"></region_code>
+          <region label="Регион"></region>
+          <rtype label="Район (вид)"></rtype>
+          <reign label="Район"></reign>
+          <ctype label="Город (вид)"></ctype>
+          <city label="Город"></city>
+          <ttype label="Населенный пункт (вид)"></ttype>
+          <town label="Населенный пункт"></town>
+          <oktmo label="ОКТМО"></oktmo>
+          <stype label="Улица (вид)"></stype>
+          <street label="Улица (название)"></street>
+          <house label="Дом"></house>
+          <korp label="Корпус"></korp>
+          <building label="Строение"></building>
+          <flat label="Квартира (офис)"></flat>
+          <okato label="ОКАТО"></okato>
+        </address>
+      </registered_address>
+      <factual_address label="Фактический адрес">
+        <address>
+          <is_kladr label="КЛАДР">Да</is_kladr>
+          <post_code label="Индекс"></post_code>
+          <region_code label="Код региона"></region_code>
+          <region label="Регион"></region>
+          <rtype label="Район (вид)"></rtype>
+          <reign label="Район"></reign>
+          <ctype label="Город (вид)"></ctype>
+          <city label="Город"></city>
+          <ttype label="Населенный пункт (вид)"></ttype>
+          <town label="Населенный пункт"></town>
+          <oktmo label="ОКТМО"></oktmo>
+          <stype label="Улица (вид)"></stype>
+          <street label="Улица (название)"></street>
+          <house label="Дом"></house>
+          <korp label="Корпус"></korp>
+          <building label="Строение"></building>
+          <flat label="Квартира (офис)"></flat>
+          <okato label="ОКАТО"></okato>
+        </address>
+      </factual_address>
+      <is_adress_equal label="Aдpec фaкт. coвпaдaет с aдpecoм pегиcтpaции">Да</is_adress_equal>
+    </leader_info>
+    <founders_info label="Учредители">
+			
+			<founder_info><type lable="ФЛ/ЮЛ">ФЛ</type><share label="Доля в компании, %">100.00</share><surname label="Фамилия">Кучинская</surname><name label="Имя">Ева</name><second_name label="Отчество">Дмитриевна</second_name><birth label="Дата рождения">03.09.1997</birth><pbirthplace label="Место рождения">Москва</pbirthplace><gender label="Пол">женский</gender><region label="Регион">г Москва</region><residend_rf label="Резидент">Да</residend_rf><document_type label="Документ, удостоверяющий личность">паспорт РФ</document_type><pnumber label="Номер документа">1234 123123</pnumber><pproducted label="Кем выдан">Отделом</pproducted><pdate label="Дата выдачи">12.09.2020</pdate><pcode label="Код подразделения">456-235</pcode><migr_num label="Миграционная карта, номер"></migr_num><migr_date1 label="Миграционная карта, дата с"></migr_date1><migr_date2 label="Миграционная карта, дата по"></migr_date2><doc_series label="Удостоверениче личности, серия"></doc_series><doc_num label="Удостоверениче личности, номер"></doc_num><doc_date1 label="Удостоверениче личности, дата с"></doc_date1><doc_date2 label="Удостоверениче личности, дата с"></doc_date2><registered_address label="Адрес регистрации"><address><is_kladr label="КЛАДР">Да</is_kladr><post_code label="Индекс">125167</post_code><region_code label="Код региона">77</region_code><region label="Регион">г Москва</region><rtype label="Район (вид )"></rtype><reign label="Район"></reign><ctype label="Город (вид) "></ctype><city label="Город"></city><ttype label="Населенный пункт (вид)"></ttype><town label="Населенный пункт"></town><oktmo label="ОКТМО">45318000</oktmo><stype label="Улица (вид) ">проспект</stype><street label="Улица (название)">Ленинградский</street><house label="Дом">36</house><korp label="Корпус">11</korp><building label="Строение">11</building><flat label="Квартира (офис)"></flat><okato label="ОКАТО">45277553000</okato></address></registered_address><factual_address label="Фактический адрес"><address><is_kladr label="КЛАДР">Да</is_kladr><post_code label="Индекс">121059</post_code><region_code label="Код региона">77</region_code><region label="Регион">г Москва</region><rtype label="Район (вид )"></rtype><reign label="Район"></reign><ctype label="Город (вид) "></ctype><city label="Город"></city><ttype label="Населенный пункт (вид)"></ttype><town label="Населенный пункт"></town><oktmo label="ОКТМО">45318000</oktmo><stype label="Улица (вид) ">набережная</stype><street label="Улица (название)">Бережковская</street><house label="Дом">10</house><korp label="Корпус"></korp><building label="Строение"></building><flat label="Квартира (офис)"></flat><okato label="ОКАТО">45268554000</okato></address></factual_address><is_adress_equal label="Aдpec фaкт. coвпaдaет с aдpecoм pегиcтpaции">Да</is_adress_equal></founder_info>
+			
+
+			
+			<founder_info><type lable="ФЛ/ЮЛ">ЮЛ</type><share label="Доля в компании, %"></share><name label="Наименование"></name><registered_address label="&gt;Юридический адрес"><address><is_kladr label="КЛАДР">Да</is_kladr><post_code label="Индекс"></post_code><region_code label="Код региона"></region_code><region label="Регион"></region><rtype label="Район (вид )"></rtype><reign label="Район"></reign><ctype label="Город (вид) "></ctype><city label="Город"></city><ttype label="Населенный пункт (вид)"></ttype><town label="Населенный пункт"></town><oktmo label="ОКТМО"></oktmo><stype label="Улица (вид) "></stype><street label="Улица (название)"></street><house label="Дом"></house><korp label="Корпус"></korp><building label="Строение"></building><flat label="Квартира (офис)"></flat><okato label="ОКАТО"></okato></address></registered_address><factual_address label="&gt;Фактический адрес"><address><is_kladr label="КЛАДР">Да</is_kladr><post_code label="Индекс"></post_code><region_code label="Код региона"></region_code><region label="Регион"></region><rtype label="Район (вид )"></rtype><reign label="Район"></reign><ctype label="Город (вид) "></ctype><city label="Город"></city><ttype label="Населенный пункт (вид)"></ttype><town label="Населенный пункт"></town><oktmo label="ОКТМО"></oktmo><stype label="Улица (вид) "></stype><street label="Улица (название)"></street><house label="Дом"></house><korp label="Корпус"></korp><building label="Строение"></building><flat label="Квартира (офис)"></flat><okato label="ОКАТО"></okato></address></factual_address><is_adress_equal label="Aдpec фaкт. coвпaдaет с aдpecoм pегиcтpaции"></is_adress_equal><inn label="ИНН"></inn><ogrn label="ОГРН"></ogrn><regdate label="Дата гос. регистрации"></regdate><regplace label="Место гос. регистрации"></regplace></founder_info>
+			
+		</founders_info>
+    <beneficiaries_info label="Конечные бенефициары">
+			
+			<beneficiary_info><share label="Доля в компании, %">100.00</share><surname label="Фамилия">Кучинская</surname><name label="Имя">Ева</name><second_name label="Отчество">Дмитриевна</second_name><birth label="Дата рождения">03.09.1997</birth><pbirthplace label="Место рождения">Москва</pbirthplace><region label="Регион"></region><residend_rf label="Резидент">Да</residend_rf><document_type label="Документы">паспорт РФ</document_type><pnumber label="Номер документа">1234 123123</pnumber><pproducted label="Кем выдан">Отделом</pproducted><pdate label="Дата выдачи">12.09.2020</pdate><pcode label="Код подразделения">456-235</pcode><migr_num label="Миграционная карта, номер"></migr_num><migr_date1 label="Миграционная карта, дата с"></migr_date1><migr_date2 label="Миграционная карта, дата по"></migr_date2><doc_series label="Удостоверениче личности, серия"></doc_series><doc_num label="Удостоверениче личности, номер"></doc_num><doc_date1 label="Удостоверениче личности, дата с"></doc_date1><doc_date2 label="Удостоверениче личности, дата с"></doc_date2><registered_address label="Адрес регистрации"><address><is_kladr label="КЛАДР">Да</is_kladr><post_code label="Индекс"></post_code><region_code label="Код региона"></region_code><region label="Регион"></region><rtype label="Район (вид )"></rtype><reign label="Район"></reign><ctype label="Город (вид) "></ctype><city label="Город"></city><ttype label="Населенный пункт (вид)"></ttype><town label="Населенный пункт"></town><oktmo label="ОКТМО"></oktmo><stype label="Улица (вид) "></stype><street label="Улица (название)"></street><house label="Дом"></house><korp label="Корпус"></korp><building label="Строение"></building><flat label="Квартира (офис)"></flat><okato label="ОКАТО"></okato></address></registered_address><is_adress_equal label="Aдpec фaкт. coвпaдaет с aдpecoм pегиcтpaции">Да</is_adress_equal><is_actually label="Совпадает с фактическим">Да</is_actually></beneficiary_info>
+			
+
+		</beneficiaries_info>
+  </client_data>
+  <request_data label="Карточка заявки">
+    <class label="Класс заявки">Выдача</class>
+    <deviation label="Сделка с отклонениями">Нет</deviation>
+    <parnter label="Партнеры/Инфо о Банке">Гособлако</parnter>
+    <network_division label="Подразделение сети">Подразделение электронных банковских гарантий</network_division>
+    <division label="Подразделение">Кредитующее подразделение</division>
+    <sales_point label="ДО (Точка продаж КП)">Подразделение электронных банковских гарантий</sales_point>
+    <manager label="ФИО клиентского менеджера">Тест менеджер!</manager>
+    <manager_email label="ФИО клиентского менеджера, email"></manager_email>
+    <type label="Тип заявки">1</type>
+    <comment label="Комментарий отправки в ИАС">Электронная банковская гарантия</comment>
+    <product label="Кредитный продукт">Электронная банковская гарантия</product>
+    <loyalty_program label="Тип клиента по Программе лояльность">Новый клиент</loyalty_program>
+    <limit label="Общая сумма лимита"></limit>
+    <sum label="Сумма кредита">10000000</sum>
+    <purpose label="Целевое назначение кредита">Гарантия исполнения обязательств по контракту</purpose>
+    <debt_repayment label="Погашение задолженности">Нет</debt_repayment>
+    <term label="Срок кредита">1</term>
+    <form label="Форма предоставления Ккредита">Электронная банковская гарантия</form>
+    <rate label="Ставка по договору"></rate>
+    <tarif label="Тариф по договору">24480.87</tarif>
+    <term_type label="Тип срока">месяц</term_type>
+    <request_id label="Номер заявки">G266060-1</request_id>
+    <request_platform label="Наименование площадки">Gosoblako</request_platform>
+    <agent_code label="Код агента">1903</agent_code>
+    <executive label="Исполнитель"></executive>
+    <executive_email label="Исполнитель, e-mail"></executive_email>
+    <sales_manager label="Сотрудник, привлекший клиента">Тест менеджер!</sales_manager>
+    <sales_manager_email label="Сотрудник, привлекший клиента, e-mail"></sales_manager_email>
+    <account_manager label="Менеджер сделки">Тест менеджер!</account_manager>
+    <account_manager_email label="Менеджер сделки, e-mail"></account_manager_email>
+	 <account_manager_code label="Код менеджера сделки"></account_manager_code>
+    <request_status label="Статус заявки, созданной на площадке">2а. Запрос доп. данных</request_status>
+    <financial_analysis_date label="Дата проведения фин. Анализа">25.09.2020</financial_analysis_date>
+    <finres label="Финансовое положение"/>
+  </request_data>
+  <tender label="Информация об аукционе/конкурсе">
+    <tender_method label="Способ размещения">Закрытый аукцион с учетом положений ст. 111 Закона № 44-ФЗ</tender_method>
+    <tender_number label="Реестровый номер торгов">0358400000820000050</tender_number>
+    <lot_number label="Лот">1</lot_number>
+    <protocol_name label="Название протокола"></protocol_name>
+    <start_price label="Начальная максимальная цена">224422.8</start_price>
+  </tender>
+  <contract_data label="Информация о контракте">
+    <contract_amount label="Предложенная победителем цена контракта">10000000</contract_amount>
+    <contract_avancy label="Наличие аванса">Нет</contract_avancy>
+    <contract_avancy_sum label="Сумма аванса"></contract_avancy_sum>
+    <contract_term_start label="Дата начала контракта">25.09.2020</contract_term_start>
+    <contract_term_end label="Дата завершения контракта">25.09.2020</contract_term_end>
+  </contract_data>
+  <guarantee_data label="Банковская гарантия">
+    <bank_guarantee>
+      <guarantee_amount label="Сумма обеспечения">10000000</guarantee_amount>
+      <guarantee_execution label="Сумма на исполнение">0.00</guarantee_execution>
+      <guarantee_begin label="Дата начала действия">25.09.2020</guarantee_begin>
+      <guarantee_end label="Дата завершения действия">22.10.2020</guarantee_end>
+      <guarantee_currency label="Валюта гарантии"></guarantee_currency>
+      <federal_law label="Закон, регулирующий закупку">44-ФЗ</federal_law>
+      <guarantee_type label="Вид обеспечиваемого обязательства">Гарантия исполнения обязательств по контракту</guarantee_type>
+      <registry label="Реестр">закрытый</registry>
+      <ikz label="ИКЗ">201772931474561654300100920492420000</ikz>
+      <iku label="ИКУ"></iku>
+    </bank_guarantee>
+    <beneficiary_details label="Бенефициар">
+      <category label="Категория Бенефициара">44-ФЗ</category>
+      <person_name label="Наименование ">ФИЛИАЛ ФЕДЕРАЛЬНОГО ГОСУДАРСТВЕННОГО БЮДЖЕТНОГО УЧРЕЖДЕНИЯ "ЦЕНТРАЛЬНОЕ ЖИЛИЩНО-КОММУНАЛЬНОЕ УПРАВЛЕНИЕ" МИНИСТЕРСТВА ОБОРОНЫ РОССИЙСКОЙ ФЕДЕРАЦИИ (ПО ЮЖНОМУ ВОЕННОМУ ОКРУГУ)</person_name>
+      <ogrn label="ОГРН">1027700430889</ogrn>
+      <inn label="ИНН">7729314745</inn>
+      <kpp label="КПП">616543001</kpp>
+      <idEIS label="Код по СПЗ"></idEIS>
+      <registrationDate label="Дата государственной регистрации ">07.10.2002</registrationDate>
+      <address label="Юридический адрес">
+        <is_kladr label="КЛАДР">Да</is_kladr>
+        <post_code label="Индекс">105005</post_code>
+        <region_code label="Код региона">77</region_code>
+        <region label="Регион">Москва</region>
+        <rtype label="Район (вид)"></rtype>
+        <reign label="Район"></reign>
+        <ctype label="Город (вид)"></ctype>
+        <city label="Город"></city>
+        <ttype label="Населенный пункт (вид)"></ttype>
+        <town label="Населенный пункт"></town>
+        <oktmo label="ОКТМО"></oktmo>
+        <stype label="Улица (вид)">улица</stype>
+        <street label="Улица (название)">Спартаковская</street>
+        <house label="Дом">2Б</house>
+        <korp label="Корпус"></korp>
+        <building label="Строение"></building>
+        <flat label="Квартира (офис)"></flat>
+        <okato label="ОКАТО">82257826001</okato>
+      </address>
+    </beneficiary_details>
+  </guarantee_data>
+  <Platform_info label="Данные с площадки">
+    <General_info_from_platform label="общая информация с площадки">
+      <NotRNP label="Отсутствует в РНП?">ДА</NotRNP>
+      <EGRUL label="Зарегестрирован в ЕГРЮЛ?">ДА</EGRUL>
+      <EGRUL_ok label="Отсутствуют данные о недействительности?">ДА</EGRUL_ok>
+      <PassportOk label="Паспорт действительный?">ДА</PassportOk>
+      <NotBankrupt label="Отсутствуют сведения о банкротстве?">ДА</NotBankrupt>
+      <NotLiquidation label="Клиент не в состоянии ликвидации?">ДА</NotLiquidation>
+      <NotTransform label="Клиент не в состоянии преобразовании?">ДА</NotTransform>
+      <NotDisqual label="Отсутствует решение о дисквалификации?">ДА</NotDisqual>
+      <NotSuspension label="Отсутствует решение о приостановлении счёта?">ДА</NotSuspension>
+      <IspolProizvSum label="Сумма исполнительных производтсв">0</IspolProizvSum>
+      <Arbitrage_sum label="Сумма арбитражей">0</Arbitrage_sum>
+      <YearPeriodOk label="Годовая отчётность есть?">ДА</YearPeriodOk>
+      <ArrearsOk label="Нет просроченной задолженности по ЗП?">ДА</ArrearsOk>
+      <BadTMC label="Нет нелеквидных запасов ТМЦ?">ДА</BadTMC>
+      <BadDt label="Нет Безнадёжной Дт?">ДА</BadDt>
+      <TaxOk label="Объём просроченной задолженности по налогам и сборам">0</TaxOk>
+    </General_info_from_platform>
+    <Contract_experience label="Опыт исполнения контрактов">
+      <Kol_IspKontrakt label="количество исполненных контрактов за анализируемый период">0</Kol_IspKontrakt>
+      <GosCon_Num label="Кол-во исполнен. Контрактов по госзакупкам">0</GosCon_Num>
+      <GosСon_LastDate label="Дата последнего контракта по госзакупкам">31. 12.2099</GosСon_LastDate>
+      <СonPriceDrop label="Падение НМЦ">-43.558752497518</СonPriceDrop>
+      <GosСon_FinVol label="Ср.мес.объём закрытых по госзакупкам">0</GosСon_FinVol>
+      <GosСon_CurVol label="Ср.мес.объём текущих по госзакупкам">0</GosСon_CurVol>
+      <GosСon_NumActual label="Кол-во исполнен. Контрактов по уточн.">0</GosСon_NumActual>
+      <GosСon_DateActual label="Дата последнего контракта по уточн.">31. 12.2099</GosСon_DateActual>
+      <GosСon_FinVolActual label="Ср.мес.объём закрытых по уточн.">0</GosСon_FinVolActual>
+      <GosСon_CurVolActual label="Ср.мес.объём текущих по уточн.">0</GosСon_CurVolActual>
+    </Contract_experience>
+    <all_OKPD2_ label="Все ОКПД2">
+			
+			<OKPD2_ label="ОКПД2"><OKPD2_Code label="Код ОКПД2"></OKPD2_Code><OKPD2_Name label="Наименование ОКПД2"></OKPD2_Name><OKPD2_Sum label="Сумма ОКПД2"></OKPD2_Sum></OKPD2_>
+			
+		</all_OKPD2_>
+    <TenderPlus label="Тендерная+">
+      <TendPurpose label="Назначение дополнительной гарантии к тендерной">Нет</TendPurpose>
+      <TendPlus_sum label="Сумма по дополнительной гарантии">0</TendPlus_sum>
+      <TendPlus_period label="Срок дополнительной гарантии">0</TendPlus_period>
+    </TenderPlus>
+  </Platform_info>
+  <Fin_periods label="Отчётности">
+		
+		<Fin_period label="Отчётность"><fin_period_date label="Дата отчётности">31.03.2020</fin_period_date><_1110_>0</_1110_><_1120_>0</_1120_><_1130_>0</_1130_><_1140_>0</_1140_><_1150_>0</_1150_><_1160_>0</_1160_><_1170_>0</_1170_><_1180_>0</_1180_><_1190_>0</_1190_><_1100_>0</_1100_><_1210_>0</_1210_><_1220_>0</_1220_><_1230_>0</_1230_><_1240_>0</_1240_><_1250_>0</_1250_><_1260_>0</_1260_><_1200_>0</_1200_><_1600_>0</_1600_><_1310_>0</_1310_><_1320_>0</_1320_><_1340_>0</_1340_><_1350_>0</_1350_><_1360_>0</_1360_><_1370_>0</_1370_><_1300_>0</_1300_><_1410_>0</_1410_><_1420_>0</_1420_><_1430_>0</_1430_><_1450_>0</_1450_><_1400_>0</_1400_><_1510_>0</_1510_><_1520_>0</_1520_><_1530_>0</_1530_><_1540_>0</_1540_><_1550_>0</_1550_><_1500_>0</_1500_><_1700_>0</_1700_><_2110_>0</_2110_><_2120_>0</_2120_><_2100_>0</_2100_><_2210_>0</_2210_><_2220_>0</_2220_><_2200_>0</_2200_><_2310_>0</_2310_><_2320_>0</_2320_><_2330_>0</_2330_><_2340_>0</_2340_><_2350_>0</_2350_><_2300_>0.001</_2300_><_2410_>0</_2410_><_2421_>0</_2421_><_2430_>0</_2430_><_2450_>0</_2450_><_2460_>0</_2460_><_2400_>0.001</_2400_></Fin_period>
+		
+
+		<Fin_period label="Отчётность"><fin_period_date label="Дата отчётности">31.03.2019</fin_period_date><_1110_>0</_1110_><_1120_>0</_1120_><_1130_>0</_1130_><_1140_>0</_1140_><_1150_>0</_1150_><_1160_>0</_1160_><_1170_>0</_1170_><_1180_>0</_1180_><_1190_>0</_1190_><_1100_>0</_1100_><_1210_>0</_1210_><_1220_>0</_1220_><_1230_>0</_1230_><_1240_>0</_1240_><_1250_>0</_1250_><_1260_>0</_1260_><_1200_>0</_1200_><_1600_>0</_1600_><_1310_>0</_1310_><_1320_>0</_1320_><_1340_>0</_1340_><_1350_>0</_1350_><_1360_>0</_1360_><_1370_>0</_1370_><_1300_>0</_1300_><_1410_>0</_1410_><_1420_>0</_1420_><_1430_>0</_1430_><_1450_>0</_1450_><_1400_>0</_1400_><_1510_>0</_1510_><_1520_>0</_1520_><_1530_>0</_1530_><_1540_>0</_1540_><_1550_>0</_1550_><_1500_>0</_1500_><_1700_>0</_1700_><_2110_>0</_2110_><_2120_>0</_2120_><_2100_>0</_2100_><_2210_>0</_2210_><_2220_>0</_2220_><_2200_>0</_2200_><_2310_>0</_2310_><_2320_>0</_2320_><_2330_>0</_2330_><_2340_>0</_2340_><_2350_>0</_2350_><_2300_>0.001</_2300_><_2410_>0</_2410_><_2421_>0</_2421_><_2430_>0</_2430_><_2450_>0</_2450_><_2460_>0</_2460_><_2400_>0.001</_2400_></Fin_period>
+		
+
+		<Fin_period label="Отчётность"><fin_period_date label="Дата отчётности">01.01.2020</fin_period_date><_1110_>100</_1110_><_1120_>0</_1120_><_1130_>0</_1130_><_1140_>0</_1140_><_1150_>0</_1150_><_1160_>0</_1160_><_1170_>0</_1170_><_1180_>0</_1180_><_1190_>0</_1190_><_1100_>100</_1100_><_1210_>1</_1210_><_1220_>0</_1220_><_1230_>0</_1230_><_1240_>0</_1240_><_1250_>0</_1250_><_1260_>0</_1260_><_1200_>1</_1200_><_1600_>101</_1600_><_1310_>100</_1310_><_1320_>0</_1320_><_1340_>0</_1340_><_1350_>0</_1350_><_1360_>0</_1360_><_1370_>0</_1370_><_1300_>100</_1300_><_1410_>1</_1410_><_1420_>0</_1420_><_1430_>0</_1430_><_1450_>0</_1450_><_1400_>1</_1400_><_1510_>0</_1510_><_1520_>0</_1520_><_1530_>1</_1530_><_1540_>0</_1540_><_1550_>0</_1550_><_1500_>1</_1500_><_1700_>102</_1700_><_2110_>212</_2110_><_2120_>0</_2120_><_2100_>212</_2100_><_2210_>0</_2210_><_2220_>0</_2220_><_2200_>212</_2200_><_2310_>0</_2310_><_2320_>0</_2320_><_2330_>0</_2330_><_2340_>0</_2340_><_2350_>0</_2350_><_2300_>212</_2300_><_2410_>0</_2410_><_2421_>0</_2421_><_2430_>0</_2430_><_2450_>0</_2450_><_2460_>0</_2460_><_2400_>212</_2400_></Fin_period>
+		
+
+	</Fin_periods>
+</request>
